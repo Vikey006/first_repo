@@ -91,7 +91,7 @@ void Multiplication (int row, int col, int row1, int col1, vector<vector<int>> &
         }
     }
     cout<<endl;
-    cout<<"Subtraction of Matrix 1 and Matrix 2 is - "<<endl;
+    cout<<"Multiplication of Matrix 1 and Matrix 2 is - "<<endl;
     for(int i=0 ; i<row; i++){
         for(int j=0; j<col1; j++){
              cout<<Mult[i][j]<<"\t";
